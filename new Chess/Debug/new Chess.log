@@ -1,0 +1,22 @@
+﻿  pieces.cpp
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(4): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(152): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(155): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(175): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(178): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1692): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1592): warning C4101: 'restoreX': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1593): warning C4101: 'restoreY': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1606): warning C4101: 'c': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1597): warning C4101: 'restoreSY': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1596): warning C4101: 'restoreSX': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1594): warning C4101: 'restoreTeam': unreferenced local variable
+  new Chess.vcxproj -> C:\Users\Alden\source\repos\new Chess\Debug\new Chess.exe
