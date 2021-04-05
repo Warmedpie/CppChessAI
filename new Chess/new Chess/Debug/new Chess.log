@@ -1,0 +1,46 @@
+﻿  display.cpp
+c:\users\alden\source\repos\new chess\new chess\display.cpp(140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(240): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alden\source\repos\new chess\new chess\display.cpp(241): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alden\source\repos\new chess\new chess\display.cpp(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(261): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(274): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\display.cpp(292): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pieces.cpp
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(319): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(322): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(322): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(341): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(341): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(344): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1966): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(2168): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1866): warning C4101: 'restoreX': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1867): warning C4101: 'restoreY': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1880): warning C4101: 'c': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1871): warning C4101: 'restoreSY': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1870): warning C4101: 'restoreSX': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1868): warning C4101: 'restoreTeam': unreferenced local variable
+  Generating Code...
+  new Chess.vcxproj -> C:\Users\Alden\source\repos\new Chess\Debug\new Chess.exe

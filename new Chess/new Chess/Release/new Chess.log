@@ -1,0 +1,29 @@
+﻿  Source.cpp
+  pieces.cpp
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(4): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(157): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(160): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(179): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(182): warning C4018: '>': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1766): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1968): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1666): warning C4101: 'restoreX': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1667): warning C4101: 'restoreY': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1680): warning C4101: 'c': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1671): warning C4101: 'restoreSY': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1670): warning C4101: 'restoreSX': unreferenced local variable
+c:\users\alden\source\repos\new chess\new chess\pieces.cpp(1668): warning C4101: 'restoreTeam': unreferenced local variable
+  Generating code
+  41 of 1046 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    27 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  new Chess.vcxproj -> C:\Users\Alden\source\repos\new Chess\Release\new Chess.exe
