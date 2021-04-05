@@ -12,3 +12,5 @@ The book moves are all self programmed and do not include that many variations b
 The engine auto queens, this will most likely be expanded into full promotions in the future.
 
 Use the "Toggle engine" buttons to make the engine suggest moves, if you want to use the continuous analysis mode that is also fine but know the process will freeze until a forced checkmate is found, this will be expanded on and fixed in the future but is mostly used for testing right now
+
+https://www.chess.com/member/quarelai can see some of its games here on chess.com
